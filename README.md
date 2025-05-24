@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**x77y77z/x77y77z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                                             
+             dL ud8Nu  :8c dL ud8Nu  :8c   ..         dL ud8Nu  :8c dL ud8Nu  :8c            
+   uL   ..   8Fd888888L %8 8Fd888888L %8  @L          8Fd888888L %8 8Fd888888L %8      ..    
+ .@88b  @88R 4N88888888cuR 4N88888888cuR 9888i   .dL  4N88888888cuR 4N88888888cuR    .@88i   
+'"Y888k/"*P  4F   ^""%""d  4F   ^""%""d  `Y888k:*888. 4F   ^""%""d  4F   ^""%""d    ""%888>  
+   Y888L     d       .z8   d       .z8     888E  888I d       .z8   d       .z8       '88%   
+    8888     ^     z888    ^     z888      888E  888I ^     z888    ^     z888      ..dILr~` 
+    `888N        d8888'        d8888'      888E  888I     d8888'        d8888'     '".-%88b  
+ .u./"888&      888888        888888       888E  888I    888888        888888       @  '888k 
+d888" Y888*"   :888888       :888888      x888N><888'   :888888       :888888      8F   8888 
+` "Y   Y"       888888        888888       "88"  888     888888        888888     '8    8888 
+                '%**%         '%**%              88F     '%**%         '%**%      '8    888F 
+                                                98"                                %k  <88F  
+                                              ./"                                   "+:*%`   
+                                             ~`                                              
